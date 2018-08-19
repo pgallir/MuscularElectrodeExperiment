@@ -1,0 +1,110 @@
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/force load F1_6 two channel stim.mat
+['13U one channel stim 10-20 pps 10-15 mA             '
+ 'single stim 11U                                     '
+ 'single stim 9U                                      '
+ '10pps 9U and 10pps 11U. Interleaved creating a 20pps'
+ '10-20pps stim 11U                                   '
+ '10-20pps stim 9U                                    '
+ '5pps 9U and 5pps 11U. Interleaved creating a 10pps  '
+ '10pps 11U.                                          ']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/force load F1_5.mat
+['10D 1 to 15mA. 3 pulses of 10us each    '
+ '14D 1 to 15mA. 3 pulses of 10us each    '
+ '6D 1 to 15mA. 3 pulses of 10us each     '
+ '12D 1 to 15mA. 3 pulses of 10us each    '
+ '9D 1 to 15mA. 3 pulses of 10us each     '
+ '15D 1 to 15mA. 3 pulses of 10us each    '
+ '4D 1 to 15mA. 3 pulses of 10us each     '
+ '13D 1 to 15mA. 3 pulses of 10us each    '
+ '11D 1 to 15mA. 3 pulses of 10us each    '
+ '6U 1 to 15mA. 3 pulses of 10us each     '
+ '14U 1 to 15mA. 3 pulses of 10us each    '
+ '11U 1 to 15mA. 3 pulses of 10us each    '
+ '4U 1 to 15mA. 3 pulses of 10us each     '
+ '13U 1 to 15mA. 3 pulses of 10us each    '
+ '12U 1 to 15mA. 3 pulses of 10us each    '
+ '15U 1 to 15mA. 3 pulses of 10us each    '
+ '10D+11D 1 to 15mA. 3 pulses of 10us each'
+ '10D+12D 1 to 15mA. 3 pulses of 10us each']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/force load F1_6 two channel stim v2.mat
+['3 pulses 5-10-15 mA on first UP then Down 8-4-13-9-11-6                   '
+ 'train 9U 1-15 mA. 10 us                                                   '
+ '9U 1-10-20pps train, 7mA. Single pulses in between show no muscle fatigue '
+ '11U 1-10-20pps train, 7mA. Single pulses in between show no muscle fatigue'
+ '9D 1-10-20pps train, 7mA. Single pulses in between show no muscle fatigue '
+ '11D 1-10-20pps train, 7mA. Single pulses in between show no muscle fatigue']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/force load F1_6 two channel stim v3.mat
+['5pps 9D and 5pps 11U. 10 mA Interleaved creating a 10pps'
+ '10pps 9D 10 mA                                          '
+ '10pps 11U. 10 mA                                        ']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/force load F1_5 fatigue.mat
+['15U 1-10-20-30-40-50pps train, 3mA. Single pulses in between show no muscle fatigue    '
+ '15U 1-10-20-30-40-50pps train, 7mA. Single pulses in between show no muscle fatigue    '
+ '15U 1-10-10-20-30-40-50pps train, 12mA. Single pulses in between show no muscle fatigue'
+ '6U 1-10-20-30-40-50pps train, 7mA. Single pulses in between show no muscle fatigue     '
+ '6U 1-10-20-30-40-50pps train, 10mA. Single pulses in between show no muscle fatigue    '
+ '6U 1-10-20-30-40-50pps train, 13mA. Single pulses in between show no muscle fatigue    '
+ 'needle10 pps train, 15mA. justification for muscle funtioning                          '
+ '12U 1-10-20-30-40-50pps train, 7mA. Single pulses in between show no muscle fatigue    '
+ '12U 1-10-20-30-40-50pps train, 11mA. Single pulses in between show no muscle fatigue   '
+ '4U 1-10-20-30-40-50pps train, 9mA. Single pulses in between show no muscle fatigue     '
+ '4U 1-10-20-30-40-50pps train, 10mA. Single pulses in between show no muscle fatigue    '
+ '4U 1-10-20-30-40-50pps train, 12mA. Single pulses in between show no muscle fatigue    '
+ '14U 50pps train, 9mA. Single pulses in between show no muscle fatigue                  '
+ "12U l'ultimo 50pps train, 11mA. Single pulses in between show no muscle fatigue        "
+ '12U 10pps train, 11mA. Single pulses in between show no muscle fatigue                 ']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/force load F2_9.mat
+['9U 2 to 6 and then 10 mA, 3 times each                                                 '
+ '15U 2 to 6 and then 10  and 15 mA, 3 times each                                        '
+ '6U 2 to 6 and then 10  and 15 mA, 3 times each                                         '
+ '6U trains of 1-10-20-30-40 pps at 3mA. Single pulses in between show no muscle fatigue '
+ '15U trains of 1-10-20-30-40 pps at 5mA. Single pulses in between show no muscle fatigue'
+ '15U 1sec train, 15mA. Single pulses in between show no muscle fatigue                  '
+ '15U 10pps train, 15mA. Single pulses in between show no muscle fatigue                 '
+ '15U 20-30pps train, 15mA. Single pulses in between show no muscle fatigue              '
+ '15U 30-50pps train, 15mA. Single pulses in between show no muscle fatigue              '
+ '09U 1-10-20-30-40-50pps train, 5mA. Single pulses in between show no muscle fatigue    ']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/force load F1_9.mat
+['needle stim                             '
+ '9D 1 to 15mA. 3 pulses of 10us each     '
+ '10D 1 to 15mA. 3 pulses of 10us each    '
+ '11D 1 to 15mA. 3 pulses of 10us each    '
+ '6D 1 to 15mA. 3 pulses of 10us each     '
+ '12D 1 to 15mA. 3 pulses of 10us each    '
+ '4D 1 to 15mA. 3 pulses of 10us each     '
+ '14D 1 to 15mA. 3 pulses of 10us each    '
+ '13D 1 to 15mA. 3 pulses of 10us each    '
+ '15D 1 to 15mA. 3 pulses of 10us each    '
+ '9U 1 to 15mA. 3 pulses of 10us each     '
+ '10U 1 to 15mA. 3 pulses of 10us each    '
+ '11U 1 to 15mA. 3 pulses of 10us each    '
+ '6U 1 to 15mA. 3 pulses of 10us each     '
+ '12U 1 to 15mA. 3 pulses of 10us each    '
+ '4U 1 to 15mA. 3 pulses of 10us each     '
+ '13U 1 to 15mA. 3 pulses of 10us each    '
+ '14U 1 to 15mA. 3 pulses of 10us each    '
+ '15U 1 to 15mA. 3 pulses of 10us each    '
+ '14D+14U 1 to 15mA. 3 pulses of 10us each'
+ '9D+12U 1 to 15mA. 3 pulses of 10us each ']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/force load F1_6.mat
+['3 pulses 5-10-15 mA on first UP then Down 8-4-13-9-11-6                   '
+ 'train 9U 1-15 mA. 10 us                                                   '
+ '9U 1-10-20pps train, 7mA. Single pulses in between show no muscle fatigue '
+ '11U 1-10-20pps train, 7mA. Single pulses in between show no muscle fatigue'
+ '9D 1-10-20pps train, 7mA. Single pulses in between show no muscle fatigue '
+ '11D 1-10-20pps train, 7mA. Single pulses in between show no muscle fatigue']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/force load shortcircuit.mat
+['4+13U 1-10-20-30-40-50pps train, 5mA. Single pulses in between show no muscle fatigue']
+
+ show all experiments in the session
+list of experiments: 
+0:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/force load F1_6 two channel stim.mat'
+1:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/force load F1_5.mat'
+2:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/force load F1_6 two channel stim v2.mat'
+3:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/force load F1_6 two channel stim v3.mat'
+4:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/force load F1_5 fatigue.mat'
+5:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/force load F2_9.mat'
+6:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/force load F1_9.mat'
+7:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/force load F1_6.mat'
+8:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/force load shortcircuit.mat'
+

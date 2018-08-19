@@ -1,0 +1,52 @@
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_7 EMG ch.2-5 Intraneural 2U 3U 5U 7U.mat
+['pressure           ' 'pinch              ' 'controlateral pinch'
+ 'strong pinch       ']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F2_6 EMG ch.2-5 is 10D 5D 12D 14D.mat
+['amp 200 1 3kHz t3 pression                              '
+ 'amp 200 1 3kHz t3 pinch                                 '
+ 'amp 200 1 3kHz t3 controlateral pinch                   '
+ 'amp 200 1 3kHz t3 strong pinch                          '
+ 'amp 200 1 3kHz t4 pinch strong pinch sanna vs needle ch1']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F2_6 EMG ch.2-5 is 3D 2U 2D 3U.mat
+['amp 200 1 3kHz t3 pression                        '
+ 'amp 200 1 3kHz t3 pression_2                      '
+ 'amp 200 1 3kHz t3 pression_3                      '
+ 'amp 200 1 3kHz t3 pinch                           '
+ 'amp 200 1 3kHz t3 pinch_2                         '
+ 'amp 200 1 3kHz t3 pinch controlateral             '
+ 'amp 200 1 3kHz t3 pinch_3                         '
+ 'amp 200 1 3kHz t3 pinch sanna_vs_needle_ch1       '
+ 'amp 200 1 3kHz t3 strong pinch sanna vs needle ch1']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F2_6 EMG ch.2-5 is NEEDLE 5U 10U 12U.mat
+['T4 pressure           ' 't4 pinch              '
+ 't4 controlateral pinch' 't4 strong pinch       ']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F2_6 EMG ch.2-5 is 7D 12D 15D 7U.mat
+['100 amp 1Hz 3 kHz t3 pressure                             '
+ 'te controlateral pressure                                 '
+ 't3 pinch                                                  '
+ 'te strong pinch                                           '
+ 'amp 200 1Hz 3kHz t3 pressure                              '
+ 'amp 200 1Hz 3kHz t3 pinch                                 '
+ 'amp 200 1Hz 3kHz t3 controlateral pinch                   '
+ 'amp 200 1Hz 3kHz t3 strong pinch                          '
+ 'amp 200 1Hz 3kHz t3 pinch strong pinch sanna vs needle ch1']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_9 EMG 2U 3D 7D 2D.mat
+['pinch 2t start    ' 'pinch 2t stop     ' 'Paw pressure start'
+ 'Paw pressure stop ' 'Pinch 3t start    ' 'Pinch 3t stop     ']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_9 EMG 2U 5U 7D 8D.mat
+['Pinch start 2t' 'Pinch stop 2t ']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_7 EMG ch.2-5 Intraneural 8U 2D 7D 3D.mat
+['pressure           ' 'pinch              ' 'controlateral pinch'
+ 'strong pinch       ']
+
+ show all experiments in the session
+list of experiments: 
+0:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_7 EMG ch.2-5 Intraneural 2U 3U 5U 7U.mat'
+1:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F2_6 EMG ch.2-5 is 10D 5D 12D 14D.mat'
+2:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F2_6 EMG ch.2-5 is 3D 2U 2D 3U.mat'
+3:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F2_6 EMG ch.2-5 is NEEDLE 5U 10U 12U.mat'
+4:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F2_6 EMG ch.2-5 is 7D 12D 15D 7U.mat'
+5:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_9 EMG 2U 3D 7D 2D.mat'
+6:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_9 EMG 2U 5U 7D 8D.mat'
+7:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_7 EMG ch.2-5 Intraneural 8U 2D 7D 3D.mat'
+

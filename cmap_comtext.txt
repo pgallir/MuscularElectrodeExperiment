@@ -1,0 +1,74 @@
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_9 CMAP 2U 5U 7D 8D.mat
+['x100. 20us 0-15mA 15 steps. ch2: needle. ch3-5:5d, 3u 7, 8u ?'
+ 'x100. 20us 0-10mA 15 steps. ch2: 3U, ch3:5D, ch4: 7U, ch5: 8U'
+ 'x100. 20us 0-10mA 15 steps. ch2: 5U, ch3:2U, ch4:7D, ch5:8D  ']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F2_6 CMAP ch.2-5 is NEEDLE 5U 10U 12U.mat
+['extern stim, muscular electrode record. 10usec 1-10/15 mA. 15 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:NEEDLE, ch3:5U, ch4:10U, Ch5:12U '
+ 'extern stim, muscular electrode record. 10usec 7-8 mA. 5 steps 3 TRIALS x100. filter 1-3000Hz. Ch1:trigger, Ch2:10D, ch3:5D, ch4:12D, Ch5:14D'
+ 'extern stim, muscular electrode record. 10usec 8-9 mA. 5 steps 3 TRIALS x100. filter 1-3000Hz. Ch1:trigger, Ch2:10D, ch3:5D, ch4:12D, Ch5:14D']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F2_6 CMAP ch.2-5 is 10D 5D 12D 14D.mat
+['extern stim, muscular electrode record. 10usec 1-10/15 mA. 15 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:10D, ch3:5D, ch4:12D, Ch5:14D   '
+ 'extern stim, muscular electrode record. 10usec 5-6 mA. 5 steps 3 times x100. filter 1-3000Hz. Ch1:trigger, Ch2:10D, ch3:5D, ch4:12D, Ch5:14D'
+ 'extern stim, muscular electrode record. 10usec 6-7 mA. 5 steps 3 times x100. filter 1-3000Hz. Ch1:trigger, Ch2:10D, ch3:5D, ch4:12D, Ch5:14D'
+ 'extern stim, muscular electrode record. 10usec 8-9 mA. 5 steps 3 times x100. filter 1-3000Hz. Ch1:trigger, Ch2:10D, ch3:5D, ch4:12D, Ch5:14D']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_7 CMAP ch.2-5 Intraneural 5U 10U 12U - Copy.mat
+['extern stim, muscular electrode record. 10usec 1-10/15 mA. 15 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:NEEDLE, ch3:5U, ch4:10U, Ch5:12U '
+ 'extern stim, muscular electrode record. 10usec 7-8 mA. 5 steps 3 TRIALS x100. filter 1-3000Hz. Ch1:trigger, Ch2:10D, ch3:5D, ch4:12D, Ch5:14D'
+ 'extern stim, muscular electrode record. 10usec 8-9 mA. 5 steps 3 TRIALS x100. filter 1-3000Hz. Ch1:trigger, Ch2:10D, ch3:5D, ch4:12D, Ch5:14D']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_7 CMAP ch.2-5 Intraneural 8U 2D 7D 3D.mat
+['needle, muscular electrode record. 10usec 1 10/ 15mA. 15 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:8U, ch3:2D, ch4:7D, Ch5:3D'
+ 'NEEDLE, muscular electrode record. 10usec 5 5A. 6 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:8U, ch3:2D, ch4:7D, Ch5:3D       '
+ 'NEEDLE, muscular electrode record. 10usec 8 9mA. 6 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:8U, ch3:2D, ch4:7D, Ch5:3D      ']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F2_6 CMAP ch.2-5 is 3D 2U 2D 3U.mat
+['extern stim, needle record ch2. 20usec 1-10 mA. x200. filter 1-3000Hz                                                            '
+ 'extern stim, muscular electrode record. 20usec 1-10 mA. x100. filter 1-3000Hz. Ch1:trigger, Ch2:3D, ch3:2U, ch4:2D, Ch5:3U       '
+ 'extern stim, muscular electrode record. 10usec 1-10 mA. x200. filter 1-3000Hz. Ch1:trigger, Ch2:3D, ch3:2U, ch4:2D, Ch5:3U       '
+ 'extern stim, muscular electrode record. 10usec 1-10 mA. x100. filter 1-3000Hz. Ch1:trigger, Ch2:3D, ch3:2U, ch4:2D, Ch5:3U       '
+ 'extern stim, muscular electrode record. 10usec 4-5 mA m 5steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:3D, ch3:2U, ch4:2D, Ch5:3U'
+ 'extern stim, muscular electrode record. 10usec 7-8 mA m 5steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:3D, ch3:2U, ch4:2D, Ch5:3U']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_9 CMAP 2U 3D 7D 2D.mat
+['x100. 20us 0-10mA 15 steps.']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_7 CMAP ch.2-5 Intraneural 2U 3U 5U 7U.mat
+['INTRANEURAL 1U, EXT REF, muscular electrode record. 10usec 10 150uA. 15 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U       '
+ 'INTRANEURAL 1U, EXT REF, muscular electrode record. 10usec 70 80uA. 6 steps 3 trials x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U'
+ 'INTRANEURAL 1U, EXT REF, muscular electrode record. 10usec 80 90uA. 6 steps 3 trials x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U'
+ 'INTRANEURAL 2U, EXT REF, muscular electrode record. 10usec 10 150uA. 15 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U       '
+ 'INTRANEURAL 4U, EXT REF, muscular electrode record. 10usec 10 150uA. 15 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U       '
+ 'INTRANEURAL 5U, EXT REF, muscular electrode record. 10usec 10 150uA. 15 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U       '
+ 'INTRANEURAL 2D, EXT REF, muscular electrode record. 10usec 10 150uA. 15 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U       '
+ 'INTRANEURAL 3D, EXT REF, muscular electrode record. 10usec 10 150uA. 15 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U       '
+ 'INTRANEURAL 4D, EXT REF, muscular electrode record. 10usec 10 150uA. 15 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U       ']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_7 CMAP ch.2-5 Intraneural rec 4U STIM 3U MUSC.mat
+['INTRANEURAL 1U, EXT REF, muscular electrode record. 10usec 10 150uA. 15 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U       '
+ 'INTRANEURAL 1U, EXT REF, muscular electrode record. 10usec 70 80uA. 6 steps 3 trials x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U'
+ 'INTRANEURAL 1U, EXT REF, muscular electrode record. 10usec 80 90uA. 6 steps 3 trials x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U'
+ 'INTRANEURAL 2U, EXT REF, muscular electrode record. 10usec 10 150uA. 15 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U       '
+ 'INTRANEURAL 4U, EXT REF, muscular electrode record. 10usec 10 150uA. 15 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U       '
+ 'INTRANEURAL 5U, EXT REF, muscular electrode record. 10usec 10 150uA. 15 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U       '
+ 'INTRANEURAL 2D, EXT REF, muscular electrode record. 10usec 10 150uA. 15 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U       '
+ 'INTRANEURAL 3D, EXT REF, muscular electrode record. 10usec 10 150uA. 15 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U       '
+ 'INTRANEURAL 4D, EXT REF, muscular electrode record. 10usec 10 150uA. 15 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U       ']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F2_6 CMAP ch.2-5 is 7D 12D 15D 7U.mat
+['extern stim, muscular electrode record. 10usec 1-10/15 mA. 15 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:7D, ch3:12D, ch4:15D, Ch5:7U'
+ 'extern stim, muscular electrode record. 10usec 5-6 mA. 5 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:7D, ch3:12D, ch4:15D, Ch5:7U     '
+ 'extern stim, muscular electrode record. 10usec 8-9 mA. 5 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:7D, ch3:12D, ch4:15D, Ch5:7U     ']
+/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_7 CMAP ch.2-5 2U 3U 5U 7U.mat
+['extern stim, muscular electrode record. 10usec 1-10/15 mA. 15 steps x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U        '
+ 'extern stim, muscular electrode record. 10usec 1-10/15 mA. 15 steps 2 TRIAL x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U'
+ 'extern stim, muscular electrode record. 10usec 4-5 mA. 5 steps 3 TRIALS x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U    '
+ 'extern stim, muscular electrode record. 10usec 9-10 mA. 5 steps 4 TRIALS x100. filter 1-3000Hz. Ch1:trigger, Ch2:2U, ch3:3U, ch4:5U, Ch5:7U   ']
+
+ show all experiments in the session
+list of experiments: 
+0:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_9 CMAP 2U 5U 7D 8D.mat'
+1:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F2_6 CMAP ch.2-5 is NEEDLE 5U 10U 12U.mat'
+2:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F2_6 CMAP ch.2-5 is 10D 5D 12D 14D.mat'
+3:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_7 CMAP ch.2-5 Intraneural 5U 10U 12U - Copy.mat'
+4:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_7 CMAP ch.2-5 Intraneural 8U 2D 7D 3D.mat'
+5:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F2_6 CMAP ch.2-5 is 3D 2U 2D 3U.mat'
+6:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_9 CMAP 2U 3D 7D 2D.mat'
+7:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_7 CMAP ch.2-5 Intraneural 2U 3U 5U 7U.mat'
+8:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_7 CMAP ch.2-5 Intraneural rec 4U STIM 3U MUSC.mat'
+9:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F2_6 CMAP ch.2-5 is 7D 12D 15D 7U.mat'
+10:	'/home/jaky/Documents/progetti/Annarita/muscle_seline_2018/src/../data/F1_7 CMAP ch.2-5 2U 3U 5U 7U.mat'
+
