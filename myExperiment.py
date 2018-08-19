@@ -49,9 +49,7 @@ class myExperiment(adi.Experiment):
             _el = self._file[_idx-1:_idx+1]
             self._active_sites[_el] = _id_ch_less_1+1 # first is trigger
 
-    def _parse_comtext_information(self,iChunk): 
+    def _get_comtext_msg_from_chunk(self,iChunk): 
         # given a chunk, get the message
         _idx_msg = self._comtext_assigned_to_chunk[iChunk]
-        _msg     = self._data['comtext'][_idx_msg]
-        # extra code needed which is Experiment dependent - MUST be implemented in the derived Experiment class implementations
-        # ...
+        return self._data['comtext'][_idx_msg] # list of messages (>=1 msg)

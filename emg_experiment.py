@@ -83,8 +83,10 @@ class EMG_Experiment(myExperiment):
         #print(self._electrode_name, self._electrode_type, self._active_sites)
         
     def _parse_comtext_information(self,iChunk): 
-        super(EMG_Experiment,self)._parse_comtext_information(iChunk)
-        raise Exception("FERMATI")
+        # retreive the list of messages for that chunk 
+        _msg_list = self._get_comtext_msg_from_chunk(iChunk) 
+        
+        print(_msg_list)
 
 if __name__ == "__main__": 
 
